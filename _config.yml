@@ -11,13 +11,13 @@ minify_html: false
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Lessa Coelho"
+title                    : "A.C.S.R"
 title_separator          : "-"
 name                     : &name "Daniel Lessa Coelho"
 description              : &description "personal description"
-url                      : "https://dancoelho.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://acsr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dancoelho/dancoelho.github.io"
+repository               : "acsrmcgill/acsr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel L. Coelho"
+  name             : "A.C.S.R"
   avatar           : "profile2.jpg"
-  bio              : "PhD candidate in Physics"
+  bio              : "McGill Physics Computational Materials Science Group"
   location         : "Montreal QC, Canada" #"Rio de Janeiro RJ, Brazil"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "danielcoelho.uerj@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Daniel_Coelho4"
+  email            : "acsr.mcgillphysics@gmail.com"
+  researchgate     : #"https://www.researchgate.net/profile/Daniel_Coelho4"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,14 +100,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dancoelho"
+  github           : "acsrmcgill"
   google_plus      :
   keybase          :
-  instagram        : "coelhodl"
+  instagram        : #"coelhodl"
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-5636-3626"
+  orcid            : #"https://orcid.org/0000-0001-5636-3626"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -18,8 +18,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Résumé"
-    url: /cv/
+  # - title: "Résumé"
+  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
