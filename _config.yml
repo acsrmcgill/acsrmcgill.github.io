@@ -8,17 +8,20 @@
 
 exclude: [node_modules]  # for faster compiling
 minify_html: false
+theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "dark"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "A.C.S.R"
 title_separator          : "-"
+logo                     : "mcgill.png"
 name                     : &name "Daniel Lessa Coelho"
 description              : &description "personal description"
 url                      : "https://acsr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "acsrmcgill/acsr.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "_images/image-alignment-1200x4002.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -33,7 +36,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -85,7 +88,7 @@ analytics:
 # Site Author
 author:
   name             : "A.C.S.R"
-  avatar           : "profile2.jpg"
+  avatar           : "profile2.png"
   bio              : "McGill Physics Computational Materials Science Group"
   location         : "Montreal QC, Canada" #"Rio de Janeiro RJ, Brazil"
   employer         :
@@ -259,7 +262,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Montreal # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

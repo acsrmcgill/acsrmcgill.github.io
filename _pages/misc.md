@@ -6,13 +6,13 @@ redirect_from:
   - /resume
 ---
 
-## Zoe Trio
+<!-- ## Zoe Trio
 
 Brazilian power trio that mixes the rock'n'roll energy to a jazz approach to improvisation. Diverse set of influences: Macaco Bong; Toe; Medeski, Martin & Wood; The Nels Cline Singers; Bill Frisell; John Scofield.
 
 Paulo Grua - electric guitar<br>
 Diego Marins/Rodrigo Pereira - drums<br>
-Abraão Sousa/Daniel Coelho - bass guitar<br>
+Abraão Sousa/Daniel Coelho - bass guitar<br> -->
 
 <!-- P.S. Bandcamp player has a lil' delay at music start ;)
 <br> -->
@@ -24,7 +24,7 @@ Abraão Sousa/Daniel Coelho - bass guitar<br>
 <img src="{{ base_path }}/images/zoe3.jpg" alt="zoe2" style="width:20%;height:auto;">
 &nbsp; &nbsp; &nbsp;
 <img src="{{ base_path }}/images/zoe2.jpg" alt="zoe3" style="width:20%;height:auto;"> -->
-
+<!-- 
 <br><br>
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=2460220059/size=large/bgcol=333333/linkcol=0f91ff/artwork=none/transparent=true/" seamless><a href="https://zoetrio.bandcamp.com/album/zoe">Zoe by Zoe</a></iframe>
 <br><br>
@@ -35,8 +35,8 @@ Abraão Sousa/Daniel Coelho - bass guitar<br>
 <br>
 <a href="https://zoetrio.bandcamp.com" target="_blank"><img src="{{ base_path }}/images/bandcamp-icon-bw.jpg" alt="bc-icon" style="width:100px;height:100px;"></a>
 </center>
-
-
+ -->
+<!-- 
 
 ## Interlúdio
 
@@ -46,14 +46,14 @@ Diego Marins - lead vocals, acoustic guitar<br>
 Paulo Grua - electric guitar<br>
 Helton Moura - electric guitar<br>
 Max Santos - drums<br>
-Daniel Coelho - bass guitar, backing vocals<br>
+Daniel Coelho - bass guitar, backing vocals<br> -->
 
 <!-- P.S. Bandcamp player has a lil' delay at music start ;)
 <br> -->
 <center>
 <!-- <img src="{{ base_path }}/images/raiz.jpg" alt="zoe1" style="width:20%;height:auto;"> -->
 
-<br><br>
+<br><br><!-- 
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=793948138/size=large/bgcol=333333/linkcol=0f91ff/artwork=none/transparent=true/" seamless><a href="https://interludio.bandcamp.com/album/raiz">Raiz by Interlúdio</a></iframe>
 <br><br>
 
@@ -63,7 +63,7 @@ Daniel Coelho - bass guitar, backing vocals<br>
 <br>
 <a href="https://interludio.bandcamp.com" target="_blank"><img src="{{ base_path }}/images/bandcamp-icon-bw.jpg" alt="bc-icon" style="width:100px;height:100px;"></a>
 </center>
-
+ -->
 
 
 
