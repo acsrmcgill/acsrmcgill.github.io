@@ -108,13 +108,13 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 <img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
 <br><br> -->
 
-## Multicomponent of Interstitial Lattices with PFC
+<!-- ## Multicomponent of Interstitial Lattices with PFC
 
 {: style="text-align: justify" }
 Single crystal coexistence with liquid simulated with a two- 1) component interstitial PFC model in 2D. B atoms (solute) site at interstitial sites of a triangular crystal lattice of A atoms (host) [[more]](../_pages/404.md)
 
 <img src="{{ base_path }}/images/interstitial-daniel/interstitial-pic.png" alt="SH23" style="width:80%;height:auto;">
-<br><br>
+<br><br> -->
 
 
 ## Nonuniform forcing and stripe orientation in Swift-Hohenberg dynamics
@@ -153,28 +153,6 @@ Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patt
  <img src="{{ base_path }}/images/KN/full.png" alt="KN-full" style="width:40%;height:auto;">
 <br><br>
 
-## Electric induced lamellar alignment in block copolymers
-
-{: style="text-align: justify" }
-The molecular self-assembly of symmetric and assymetric
-block copolymers (BCPs) thin films is examined by numerically solving the
-Otha-Kawasaki model. Numerical results indicate that the application of a electric
-field in the preferred direction can be employed to produce 
-ordered lamellar nanostructures in both symmetric and assymetric
-BCPs thin films. The process of lamellar pattern formation consists 
-of phase nucleation and phase coarsening, through the mechanisms of 
-dislocations climbing and molecular diffusion. It's also observed that 
-an external electric field has no noticeable 
-effect on the extent of phase separation, only in the orientatation
-of the structure. [[more]](../_pages/404.md)
-
-
-<!-- <img src="{{ base_path }}/images/KN/KN1.png" alt="Benard-marangoni-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-<!-- <img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;"> -->
-<!-- Trigger the Modal -->
-
- <img src="{{ base_path }}/images/EBCPs/BCPmorphologies.png" alt="EBCPs" style="width:50%;height:auto;">
-<br><br>
 
 <!-- <img id="myImg" src="{{ base_path }}/images/KN/full.png" alt="Snow" style="width:100%;height:auto"> -->
 
