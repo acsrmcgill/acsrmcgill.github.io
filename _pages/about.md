@@ -4,8 +4,8 @@ layout: archive
 title: "About"
 excerpt: "Home"
 redirect_from: 
-  - /about/
-  - /about.html
+  - /acsr/
+  - /acsr.html
 ---
 
 {: style="text-align: justify" }
@@ -25,7 +25,7 @@ Research in my group lies at the interface of condensed matter physics and mater
 If you are interested in doing research at the forefront of advanced computing, materials physics and data science, I encourage you to consider studies in my computational materials science research group, a vibrant group of students working in a safe and inclusive environment at McGill. Please contact me directly via email to the next available openings for graduate studies in my research group or if you wish to visit and meet with my students and discuss my research and reseach environment. I welcome and encourage applications from underrepresented groups.
 
 ## Microstructure simulation clips
-<video controls style="width:100%;height:auto;">
+<video controls style="width:80%;height:auto;">
     <source src="/images/Provatas_Group.webm" type="video/webm">
 </video>
 
