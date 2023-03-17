@@ -3,8 +3,9 @@ layout: archive
 title: "Poster"
 permalink: /poster/
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /acsr/
+  - /acsr.html
 ---
 
 <!-- Brief descriptions of works done by the group. -->
