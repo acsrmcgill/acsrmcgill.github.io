@@ -12,5 +12,8 @@ main:
   - title: "Staff"
     url: /staff/    
 
+  - title: "Notes"
+    url: /notes/   
+
   - title: "Misc" #Miscellaneous
     url: /misc/
