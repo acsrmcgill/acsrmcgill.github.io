@@ -8,11 +8,6 @@ redirect_from:
   - /acsr.html
 ---
 
-{: style="text-align: justify" }
-
-I am a PhD student at McGill University, Department of Physics, working in Prof. [Nikolas Provatas group](http://www.physics.mcgill.ca/~provatas/.index.html).
-
-I obtained my MSc from the Mechanical Engineering Graduate Program ([PPG-EM](http://www.ppgem.uerj.br/en/index.html)) of the Rio de Janeiro State University ([UERJ](https://www.uerj.br)), supervised by Profs. [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html) and [Norberto Mangiavacchi](http://www.gesar.uerj.br/en/staff/professor-norberto-mangiavacchi.html). We worked on developing computational modelling of pattern formation in dissipative structures, such as reaction-diffusion systems and Rayleigh-Bénard convection cells. We numerically investigated how stripe orientation is induced by gradients of the bifurcation parameter in the Swift-Hohenberg dynamics, and compared to analytical predictions based on multiple scale analysis whenever possible.
 
 ## Research interests
 
