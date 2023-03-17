@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Notes"
-permalink: /notes/
+title: "Staff"
+permalink: /staff/
 author_profile: true
 redirect_from:
   - /resume

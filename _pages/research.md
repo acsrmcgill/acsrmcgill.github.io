@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Brief descriptions of works done by the group.
+<!-- Brief descriptions of works done by the group. -->
 
 <style>
 /* Style the Image Used to Trigger the Modal */
@@ -108,138 +108,64 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 <img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
 <br><br> -->
 
-<!-- ## Multicomponent of Interstitial Lattices with PFC
+## Multicomponent of Interstitial Lattices with PFC
 
 {: style="text-align: justify" }
-Single crystal coexistence with liquid simulated with a two- 1) component interstitial PFC model in 2D. B atoms (solute) site at interstitial sites of a triangular crystal lattice of A atoms (host) [[more]](../_pages/404.md)
+Single crystal coexistence with liquid simulated with a two-component interstitial PFC model in 2D. B atoms (solute) site at interstitial sites of a triangular crystal lattice of A atoms (host) [[more]](../_pages/404.md)
 
 <img src="{{ base_path }}/images/interstitial-daniel/interstitial-pic.png" alt="SH23" style="width:80%;height:auto;">
-<br><br> -->
+<br><br>
 
-
+<!-- 
 ## Nonuniform forcing and stripe orientation in Swift-Hohenberg dynamics
 
-{: style="text-align: justify" }
 Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intricate question. [[more]](../_pages/404.md)
 
 <img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
 <br><br>
+ -->
 
-
-## Ramped Rayleigh-Bénard systems in circular geometries
+<!-- ## Ramped Rayleigh-Bénard systems in circular geometries
 
 {: style="text-align: justify" }
 Several numerical works consider regular geometries when studying temperature gradients across a Rayleigh-Bénard convection cell. A numerical approach based on a finite-difference scheme is proposed for studying such system in a circular geometry maintaining second-order accuracy at the boundary conditions. [[more]](../_pages/404.md)
 
 
-<!-- <img src="{{ base_path }}/images/RB/fig_0.png" alt="RB-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;
-<img src="{{ base_path }}/images/RB/fig_10.png" alt="RB-cell-2" style="width:200px;height:200px;"> &nbsp;&nbsp;
-<img src="{{ base_path }}/images/RB/fig_100.png" alt="RB-cell-3" style="width:200px;height:200px;"> &nbsp;&nbsp;
-<img src="{{ base_path }}/images/RB/fig_750.png" alt="RB-cell-4" style="width:200px;height:200px;"> -->
 <img src="{{ base_path }}/images/RB/full.png" alt="RB-full" style="width:80%;height:auto;">
-<br><br>
+<br><br> -->
 
 
 ## Pattern formation in the Bénard-Marangoni convection
 
-{: style="text-align: justify" }
 Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patterns that can be modeled by the Knobloch equation. This fourth-order nonlinear evolution equation is derived _via_ multiple scales formalism and reproduces the main features of the full dynamics. [[more]](../_pages/knobloch.html)
-
-
-<!-- <img src="{{ base_path }}/images/KN/KN1.png" alt="Benard-marangoni-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-<!-- <img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;"> -->
-<!-- Trigger the Modal -->
+<br><br>
 
  <img src="{{ base_path }}/images/KN/full.png" alt="KN-full" style="width:40%;height:auto;">
 <br><br>
 
 
-<!-- <img id="myImg" src="{{ base_path }}/images/KN/full.png" alt="Snow" style="width:100%;height:auto"> -->
+<!-- ## Coarsening Dynamics in the Cahn-Hilliard Equation
 
-<!-- The Modal -->
-<!-- <div id="myModal" class="modal"> -->
-
-  <!-- The Close Button -->
-<!-- <span class="close"> &times; </span> -->
-
-  <!-- Modal Content (The Image) -->
-  <!-- <img class="modal-content" id="img01"> -->
-
-  <!-- Modal Caption (Image Text) -->
-  <!-- <div id="caption"></div> -->
-<!-- </div> -->
-
-<!-- <script>
-// Get the modal
-var modal = document.getElementById("myModal");
-
-// Get the image and insert it inside the modal - use its "alt" text as a caption
-var img = document.getElementById("myImg");
-var modalImg = document.getElementById("img01");
-var captionText = document.getElementById("caption");
-img.onclick = function(){
-  modal.style.display = "block";
-  modalImg.src = this.src;
-  captionText.innerHTML = this.alt;
-}
-
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
-
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() { 
-  modal.style.display = "none";
-}
-</script> -->
-
-
-
-<!-- ## Coarsening Dynamics in the Cahn-Hilliard Equation -->
-<!-- 
 {: style="text-align: justify" }
-The Cahn–Hilliard equation was proposed to model the process of phase separation in binary alloys. This equation has been extended to a variety of chemical, physical, biological, and other engineering fields such as spinodal decomposition, diblock copolymer, image inpainting, multiphase fluid flows, microstructures with elastic inhomogeneity, tumor growth simulation, and topology optimization. A common feature among those physical systems is the coarsening dynamics. [[more]](../_pages/404.md) -->
+The Cahn–Hilliard equation was proposed to model the process of phase separation in binary alloys. This equation has been extended to a variety of chemical, physical, biological, and other engineering fields such as spinodal decomposition, diblock copolymer, image inpainting, multiphase fluid flows, microstructures with elastic inhomogeneity, tumor growth simulation, and topology optimization. A common feature among those physical systems is the coarsening dynamics. [[more]](../_pages/404.md)
 
 
-<!-- 
-<img src="{{ base_path }}/images/CH/CH1.png" alt="cahn-hilliard-1" style="width:auto;height:250px;"> &nbsp;&nbsp; -->
-<!-- <img src="{{ base_path }}/images/CH/CH2.png" alt="cahn-hilliard-2" style="width:auto;height:250px;">;&nbsp;&nbsp; -->
-<!-- <img src="{{ base_path }}/images/CH/CH3.png" alt="cahn-hilliard-3" style="width:auto;height:250px;">;&nbsp;&nbsp; -->
-<!-- <img src="{{ base_path }}/images/CH/CH4.png" alt="cahn-hilliard-4" style="width:auto;height:250px;"> -->
-
-<!-- <img src="{{ base_path }}/images/CH/full.png" alt="CH-full" style="width:80%;height:auto;"> -->
+<img src="{{ base_path }}/images/CH/full.png" alt="CH-full" style="width:80%;height:auto;">
+ -->
 
 
-<!-- 
 ## Nonlinear dynamical systems
 
 {: style="text-align: justify" }
-The Lorenz attractor. [[more]](../_pages/404.md) -->
+The Lorenz attractor. [[more]](../_pages/404.md)
 
 
-<!-- 
-<img src="{{ base_path }}/images/CH/CH1.png" alt="cahn-hilliard-1" style="width:auto;height:250px;"> &nbsp;&nbsp; -->
-<!-- <img src="{{ base_path }}/images/CH/CH2.png" alt="cahn-hilliard-2" style="width:auto;height:250px;">;&nbsp;&nbsp; -->
-<!-- <img src="{{ base_path }}/images/CH/CH3.png" alt="cahn-hilliard-3" style="width:auto;height:250px;">;&nbsp;&nbsp; -->
-<!-- <img src="{{ base_path }}/images/CH/CH4.png" alt="cahn-hilliard-4" style="width:auto;height:250px;"> -->
-
-<!-- <img src="{{ base_path }}/images/lorenz.gif" alt="Lorenz-full" style="width:40%;height:auto;"> -->
+<img src="{{ base_path }}/images/lorenz.gif" alt="Lorenz-full" style="width:40%;height:auto;">
 
 
 
 
 
-
-<!-- {% include base_path %} -->
-
-<!-- Research
-====== -->
-<!-- * M.S. in Mechanical Engineering<br>
-  PPGEM, Rio de Janeiro State University (UERJ), Brazil, 2020 (expected)<br>
-  Advisors: [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html), 
-  [Norberto Mangiavacchi](http://www.gesar.uerj.br/en/staff/professor-norberto-mangiavacchi.html)
-* B.S. in Mechanical Engineering<br>
-  PPGEM, Rio de Janeiro State University (UERJ), Brazil, 2019<br>
-  Advisors: [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html) -->
 
 <!-- Honors & Awards
 ======

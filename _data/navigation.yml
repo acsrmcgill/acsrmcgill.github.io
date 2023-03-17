@@ -1,28 +1,16 @@
 # main links links
 main:
+  - title: "Poster"
+    url: /poster/ 
+
   - title: "Research"
     url: /research/ 
-       
+
   - title: "Publications"
     url: /publications/
 
-  # - title: "Teaching"
-  #   url: /teaching/  
-
-  - title: "Notes"
-    url: /notes/    
-    
-  # - title: "Videos"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "Résumé"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Staff"
+    url: /staff/    
 
   - title: "Misc" #Miscellaneous
     url: /misc/
