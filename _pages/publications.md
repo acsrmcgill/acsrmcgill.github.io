@@ -18,7 +18,7 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %} -->
 
-Further information about this list of publications can be found in [Google Scholar](https://scholar.google.com.br/citations?user=HxYY8LQAAAAJ&hl=pt-BR).
+Further information about this list of publications can be found in [Google Scholar](https://scholar.google.ca/citations?user=eRKNaj8AAAAJ&hl=en&oi=ao)
 
 ## Journal Articles
 

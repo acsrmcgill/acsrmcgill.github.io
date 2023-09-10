@@ -13,7 +13,7 @@ minify_html: false
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ACSR 2.00"
+title                    : "ACSR 2.0"
 title_separator          : "-"
 logo                     : "mcgill.png"
 name                     : &name "ACSR"

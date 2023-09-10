@@ -135,7 +135,7 @@ Several numerical works consider regular geometries when studying temperature gr
 <img src="{{ base_path }}/images/RB/full.png" alt="RB-full" style="width:80%;height:auto;">
 <br><br> -->
 
-
+<!--
 ## Pattern formation in the Bénard-Marangoni convection
 
 Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patterns that can be modeled by the Knobloch equation. This fourth-order nonlinear evolution equation is derived _via_ multiple scales formalism and reproduces the main features of the full dynamics. [[more]](../_pages/knobloch.html)
@@ -145,14 +145,14 @@ Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patt
 <br><br>
 
 
-<!-- ## Coarsening Dynamics in the Cahn-Hilliard Equation
+ ## Coarsening Dynamics in the Cahn-Hilliard Equation
 
 {: style="text-align: justify" }
 The Cahn–Hilliard equation was proposed to model the process of phase separation in binary alloys. This equation has been extended to a variety of chemical, physical, biological, and other engineering fields such as spinodal decomposition, diblock copolymer, image inpainting, multiphase fluid flows, microstructures with elastic inhomogeneity, tumor growth simulation, and topology optimization. A common feature among those physical systems is the coarsening dynamics. [[more]](../_pages/404.md)
 
 
 <img src="{{ base_path }}/images/CH/full.png" alt="CH-full" style="width:80%;height:auto;">
- -->
+
 
 
 ## Nonlinear dynamical systems
@@ -162,7 +162,7 @@ The Lorenz attractor. [[more]](../_pages/404.md)
 
 
 <img src="{{ base_path }}/images/lorenz.gif" alt="Lorenz-full" style="width:40%;height:auto;">
-
+-->
 
 
 
