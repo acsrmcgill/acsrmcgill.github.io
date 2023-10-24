@@ -93,11 +93,13 @@ redirect_from:
 </style>
 
 
-Here is the <a href="{{ base_path }}/files/cpm-poster-2023.pdf" download="cpm-poster-2023.pdf" target="_blank">PDF</a> version for download.
-
+Here is the <a href="{{ base_path }}/files/cpm-poster-2023.pdf" download="cpm-poster-2023.pdf" target="_blank">PDF</a> version for download (2Mb). Further information on each topic and authors can be found in [Research](../_pages/research.md) and their respective [Publications](../_pages/publications.md).
+<br><br>
 <img src="{{ base_path }}/images/acsrgroupresearch.png" alt="acsrresearch" style="width:100%;height:auto;">
 <br>
 <img src="{{ base_path }}/images/cpm-poster-1.png" alt="acsrresearch" style="width:100%;height:auto;">
+<br>
+Erratum (figure on the right): $$\hat{C}_2(k)=-\epsilon-(1-k^2)^2$$.
 <br>
 <img src="{{ base_path }}/images/cpm-poster-2.png" alt="acsrresearch" style="width:100%;height:auto;">
 <br>
