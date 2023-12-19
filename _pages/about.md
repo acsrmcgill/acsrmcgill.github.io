@@ -17,7 +17,7 @@ redirect_from:
 
 
 <!-- ## Research interests -->
-
+# About
 Research in the group lies at the interface of condensed matter physics and materials science. It combines high-performance computing with non-equilibrium thermodynamics, statistical mechanics and experiments to understand the fundamental origins of microstructure evolution in materials processes. These include systems undergoing crystallization from a melt or amorphous phases, multi-phase solidification, particle precipitation, grain growth kinetics and reaction-diffusion processes materials. 
 
 These systems serve as paradigms for understanding pattern formation in non-equilibrium phase transformations, and have applications to real-world processes. Projects in our group involve the development of theories and computational models that allow a multi-scale representation of materials from the nanoscale to the mesoscale where the emergent properties of materials typically arise. 

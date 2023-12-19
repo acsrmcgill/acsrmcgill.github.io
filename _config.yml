@@ -21,7 +21,7 @@ description              : &description "personal description"
 url                      : "https://acsrmcgill.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin    : "light"
+# minimal_mistakes_skin    : "light"
 repository               : "acsrmcgill/acsrmcgill.github.io"
 teaser                   : "_images/image-alignment-1200x4002.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)

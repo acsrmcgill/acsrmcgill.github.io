@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "Research"
+header:
+  overlay_image: jreidini2021.png
 permalink: /research/
 author_profile: true
 redirect_from: 
