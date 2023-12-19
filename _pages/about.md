@@ -1,8 +1,15 @@
 ---
 permalink: /
-layout: archive
 title: "About"
-excerpt: "Home"
+header:
+  overlay_image: headergif2.mp4
+  # overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  # actions:
+  #   - label: "More Info"
+  #     url: "https://unsplash.com"
+layout: archive
+# excerpt: "Home"
 redirect_from: 
   - /acsr/
   - /acsr.html

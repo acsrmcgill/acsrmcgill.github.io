@@ -18,6 +18,6 @@ main:
   - title: "Misc" #Miscellaneous
     url: /misc/
 
-  - title: "Archive-Layout" #Miscellaneous
-    url: /archlay/
+  # - title: "Archive-Layout" #Miscellaneous
+  #   url: /archlay/
 

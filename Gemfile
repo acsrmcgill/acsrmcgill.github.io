@@ -26,7 +26,7 @@ gem 'webrick'
 gem "github-pages", group: :jekyll_plugins
 
 gem 'jekyll-theme-hacker', '~> 0.2.0'
-# gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll"
 
 gem 'jekyll-include-cache'
 
