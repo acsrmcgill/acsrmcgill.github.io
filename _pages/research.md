@@ -2,7 +2,12 @@
 layout: archive
 title: "Research"
 header:
-  overlay_image: jreidini2021.png
+  overlay_image: kocher2018.png
+  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
+  caption: "Kocher, G. [**PhD Thesis (2018)**](https://escholarship.mcgill.ca/concern/theses/rv042w232)"
+  # actions:
+  #   - label: "More Info"
+  #     url: "https://unsplash.com"
 permalink: /research/
 author_profile: true
 redirect_from: 
