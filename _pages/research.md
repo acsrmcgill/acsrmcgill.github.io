@@ -119,7 +119,7 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 ## Multicomponent of Interstitial Lattices with PFC
 
 {: style="text-align: justify" }
-Single crystal coexistence with liquid simulated with a two-component interstitial PFC model in 2D. B atoms (solute) site at interstitial sites of a triangular crystal lattice of A atoms (host) [[more]](../_pages/404.md)
+Single crystal coexistence with liquid simulated with a two-component interstitial PFC model in 2D. B atoms (solute) site at interstitial sites of a triangular crystal lattice of A atoms (host). [[more]](../_pages/404.md)
 <br><br>
 <img src="{{ base_path }}/images/interstitial-daniel/interstitial-pic.png" alt="interstitial-pfc" style="width:60%;height:auto;">
 <br><br>
@@ -127,7 +127,7 @@ Single crystal coexistence with liquid simulated with a two-component interstiti
 ## PFC models for vapour-liquid-solid coexistence and transitions
 
 {: style="text-align: justify" }
-Some developed approaches for including the vapour phase into the PFC formalism. [[more]](../_pages/404.md)
+A new phase field crystal (PFC) type theory is presented, which accounts for the full spectrum of solid-liquid-vapor phase transitions within the framework of a single density order parameter. [[more]](../_pages/404.md)
 <br><br>
 <img src="{{ base_path }}/images/gaby-vapour-pfc.png" alt="vapour-pfc" style="width:50%;height:auto;">
 <br><br>

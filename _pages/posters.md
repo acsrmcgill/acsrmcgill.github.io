@@ -1,6 +1,10 @@
 ---
 layout: archive
 title: "Poster"
+header:
+  overlay_image: headergif4.mp4
+  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
+  # caption: "Jreidini, P. _et al_. [**Physical Review Letters (2021)**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.205701)"
 permalink: /poster/
 author_profile: true
 redirect_from: 
