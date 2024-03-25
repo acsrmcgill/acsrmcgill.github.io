@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aboutdd"
+title: "About"
 header:
   overlay_image: headergif2.mp4
   overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
