@@ -103,7 +103,7 @@ Here is the <a href="{{ base_path }}/files/cpm-poster-2023.pdf" download="cpm-po
 <br>
 <img src="{{ base_path }}/images/cpm-poster-1.png" alt="acsrresearch" style="width:100%;height:auto;">
 <br>
-Erratum (figure on the right): $$\hat{C}_2(k)=-\epsilon-(1-k^2)^2$$.
+Errata: $$\hat{C}_2(k)=-\epsilon-(1-k^2)^2$$, and $$\hat{C}_2(\mathbf{r}-\mathbf{r}')=-\epsilon-(1+\nabla^2)^2$$.
 <br>
 <img src="{{ base_path }}/images/cpm-poster-2.png" alt="acsrresearch" style="width:100%;height:auto;">
 <br>

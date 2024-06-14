@@ -12,11 +12,11 @@ main:
   - title: "People"
     url: /people/    
 
-  - title: "Notes"
-    url: /notes/   
+  - title: "Misc"
+    url: /misc/   
 
-  - title: "Misc" #Miscellaneous
-    url: /misc/
+  # - title: "Sitemap" #Miscellaneous
+  #   url: /sitemap/
 
   # - title: "Archive-Layout" #Miscellaneous
   #   url: /archlay/

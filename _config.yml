@@ -89,7 +89,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ACSR 2.0"
+  name             : "ACSR"
   avatar           : "profile2.png"
   bio              : "McGill Physics Computational Materials Science Group"
   location         : "Montreal QC, Canada" #"Rio de Janeiro RJ, Brazil"

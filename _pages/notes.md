@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Notes"
-permalink: /notes/
+title: "Misc"
+permalink: /misc/
 author_profile: true
 redirect_from: 
   - /acsr/
