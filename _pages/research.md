@@ -128,7 +128,7 @@ Single crystal coexistence with liquid simulated with a two-component interstiti
 ## PFC models for vapour-liquid-solid coexistence and transitions
 
 {: style="text-align: justify" }
-A new phase field crystal (PFC) type theory is presented, which accounts for the full spectrum of solid-liquid-vapor phase transitions within the framework of a single density order parameter. [[more]](../_pages/kocher2015.html)
+A new phase field crystal (PFC) type theory is presented, which accounts for the full spectrum of solid-liquid-vapor phase transitions within the framework of a single density order parameter. [[more]](../_pages/vapourpfc.html)
 <br><br>
 <img src="{{ base_path }}/images/gaby-vapour-pfc.png" alt="vapour-pfc" style="width:50%;height:auto;">
 <br><br>
