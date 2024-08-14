@@ -25,7 +25,7 @@ redirect_from:
 
 <!-- Further information about this list of publications can be found in [Google Scholar](https://scholar.google.ca/citations?user=eRKNaj8AAAAJ&hl=en&oi=ao) -->
 
-## Journal Articles
+## Recent Journal Articles 
 
 ### 2024
 * _**Generalizing the structural phase field crystal approach for modeling solid-liquid-vapor phase transformations in pure materials**_<br>
