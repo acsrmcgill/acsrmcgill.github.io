@@ -39,8 +39,14 @@ grads:
 
 <img src="{{ base_path }}/images/profile_pics/nik.jpg" alt="SH23" style="width:10%;height:auto;">
 {: style="text-align: justify" }
-_**Nikolas Provatas**_. PhD Prof. My research interests lie at the intersection of condensed matter physics and materials science and engineering
+_**Nikolas Provatas**_. Professor, Canada Research Chair in Computational Materials Science.
  [[more]](../_pages/404.md)
+
+## Books, Notes, etc
+Nik's book. <a href="{{ base_path }}/files/PE_Book.pdf" download="PE_Book.pdf" target="_blank">PE_Book.pdf</a>.
+<br>
+<br>
+
 
 
 ## Post-doctoral researchers and visitors
