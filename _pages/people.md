@@ -37,10 +37,23 @@ grads:
 </div>
 </div> -->
 
+<img src="{{ base_path }}/images/profile_pics/nik.jpg" alt="SH23" style="width:10%;height:auto;">
+{: style="text-align: justify" }
+_**Nikolas Provatas**_. PhD Prof. My research interests lie at the intersection of condensed matter physics and materials science and engineering
+ [[more]](../_pages/404.md)
+
 
 ## Post-doctoral researchers and visitors
 
 ## Graduate students
+
+<img src="{{ base_path }}/images/profile_pics/daniel.jpg" alt="SH23" style="width:10%;height:auto;">
+{: style="text-align: justify" }
+_**Daniel Coelho**_. PhD student. My research interests lie at the intersection of condensed matter physics and materials science and engineering
+ [[more]](../_pages/404.md)
+
+<br><br>
+
 
 <!-- {% include feature_row id="grads" type="left" %} -->
 
