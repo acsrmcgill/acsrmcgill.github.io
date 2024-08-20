@@ -42,12 +42,6 @@ grads:
 _**Nikolas Provatas**_. Professor, Canada Research Chair in Computational Materials Science.
  [[more]](../_pages/404.md)
 
-## Books, Notes, etc
-Nik's book. <a href="{{ base_path }}/files/PE_Book.pdf" download="PE_Book.pdf" target="_blank">PE_Book.pdf</a>.
-<br>
-<br>
-
-
 
 ## Post-doctoral researchers and visitors
 
