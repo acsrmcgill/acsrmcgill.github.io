@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Misc"
-permalink: /misc/
+permalink: /miscellaneous/
 author_profile: true
 redirect_from: 
   - /acsr/
@@ -22,7 +22,7 @@ Reference phase diagrams. [[more]](../_pages/phasediagrams.md)
 
 
 ## Books, Notes, etc
-Nik's book. <a href="{{ base_path }}/files/PE_Book.pdf" download="PE_Book.pdf" target="_blank">PE_Book.pdf</a>.
+Phase-Field Methods in Material Science and Engineering. Nikolas Provatas and Ken Elder. <a href="{{ base_path }}/files/PE_Book.pdf" download="PE_Book.pdf" target="_blank">PE_Book.pdf</a>.
 <br>
 <br>
 
