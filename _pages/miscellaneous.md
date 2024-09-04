@@ -24,6 +24,7 @@ Reference phase diagrams. [[more]](../_pages/phasediagrams.md)
 ## Books, Notes, etc
 Phase-Field Methods in Material Science and Engineering. Nikolas Provatas and Ken Elder. <a href="{{ base_path }}/files/PE_Book.pdf" download="PE_Book.pdf" target="_blank">PE_Book.pdf</a>.
 <br>
+Topics in Phase Transformations and Non-Equilibrium Thermodynamics. Nikolas Provatas Notes <a href="{{ base_path }}/files/Notes_Main.pdf" download="Notes_Main.pdf" target="_blank">Notes_Main.pdf</a>.
 <br>
 
 
