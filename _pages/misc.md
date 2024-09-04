@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Misc"
+title: "Resources"
 permalink: /misc/
 author_profile: true
 redirect_from: 
