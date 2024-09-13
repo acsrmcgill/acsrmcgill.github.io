@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Misc"
+title: "Resources"
 permalink: /misc/
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /acsr.html
 ---
 
-Notes about physics, engineering, softwares, and numerical methods. Useful downloads for simulations and programming.
+Resourcs related to the physics, engineering, softwares, and numerical methods used in the ASCR group. Useful downloads for simulations and programming.
 
 <!-- ## Numerical methods
 
