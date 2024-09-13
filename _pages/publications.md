@@ -30,7 +30,7 @@ redirect_from:
 ### 2024
 * _**Generalizing the structural phase field crystal approach for modeling solid-liquid-vapor phase transformations in pure materials**_,
 Daniel L. Coelho, Duncan Burns, Emily Wilson, and Nikolas Provatas<br>
-<a href="" target="_blank">Phys. Rev. Materials (2024)</a><br>
+<a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.8.093402" target="_blank">Phys. Rev. Materials (2024)</a><br>
 <a href="https://arxiv.org/abs/2408.10992" target="_blank">[arXiv]</a>
 
 ### 2023
