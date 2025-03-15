@@ -97,7 +97,7 @@ redirect_from:
 </style>
 
 
-Here is the latest poster showcasing some of the group's research <a href="{{ base_path }}/files/cpm-poster-2023.pdf" download="cpm-poster-2023.pdf" target="_blank">PDF</a> version for download (2Mb). Further information on each topic and authors can be found in [Research](../_pages/research.md) and their respective [Publications](../_pages/publications.md).
+Here is the latest poster showcasing some of the group's research. PDF version for <a href="{{ base_path }}/files/cpm-poster-2023.pdf" download="cpm-poster-2023.pdf" target="_blank">download</a> (2Mb). Further information on each topic and authors can be found in [Research](../_pages/research.md) and their respective [Publications](../_pages/publications.md).
 <br><br>
 <img src="{{ base_path }}/images/acsrgroupresearch.png" alt="acsrresearch" style="width:100%;height:auto;">
 <br>
