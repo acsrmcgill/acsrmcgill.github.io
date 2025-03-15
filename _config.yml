@@ -322,6 +322,8 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+gems:
+  - jekyll-sitemap
 
 # HTML Compression
 # - http://jch.penibelst.de/
