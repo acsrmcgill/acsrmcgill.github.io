@@ -13,7 +13,7 @@ minify_html: false
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Computational Material Science Group"
 title_separator          : "-"
 logo                     : "mcgill.png"
 name                     : &name "ACSR"
@@ -283,7 +283,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
@@ -322,8 +322,8 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-gems:
-  - jekyll-sitemap
+# gems:
+#   - jekyll-sitemap
 
 # HTML Compression
 # - http://jch.penibelst.de/
