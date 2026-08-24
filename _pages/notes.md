@@ -2,7 +2,7 @@
 layout: archive
 title: "Misc"
 permalink: /misc/
-author_profile: false
+author_profile: true
 redirect_from: 
   - /acsr/
   - /acsr.html

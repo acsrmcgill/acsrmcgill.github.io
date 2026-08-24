@@ -7,7 +7,7 @@ header:
   caption: "Jreidini, P. _et al_. [**Physical Review Letters (2021)**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.205701)"
 excerpt: ""
 permalink: /publications/
-author_profile: false
+author_profile: true
 redirect_from: 
   - /acsr/
   - /acsr.html

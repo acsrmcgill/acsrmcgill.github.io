@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
   # caption: "Jreidini, P. _et al_. [**Physical Review Letters (2021)**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.205701)"
 permalink: /posters/
-author_profile: false
+author_profile: true
 redirect_from: 
   - /acsr/
   - /acsr.html
@@ -97,7 +97,10 @@ redirect_from:
 </style>
 
 Here are the latest posters showcasing some of the group's research. Further information on each topic and authors can be found in [Research](../_pages/research.md) and their respective [Publications](../_pages/publications.md).
-<br><br>
+
+
+## RQMP Poster 2026 (Ravneet Kaur)
+
 <div style="width:100%; max-width:900px; margin: 0 auto;">
   <iframe src="{{ base_path }}/files/RQMP_poster.pdf" title="RQMP Poster 2026" style="width:100%; height:85vh; border:1px solid #ccc; border-radius:6px;">
     Your browser doesn't support embedded PDFs. You can
@@ -107,11 +110,10 @@ Here are the latest posters showcasing some of the group's research. Further inf
     <a href="{{ base_path }}/files/RQMP_poster.pdf" download="RQMP_poster.pdf" target="_blank">Download PDF</a> (2Mb)
   </p>
 </div>
-<br><br>
 
 
+## CPM Poster 2023
 
-<br><br>
 <div style="width:100%; max-width:900px; margin: 0 auto;">
   <iframe src="{{ base_path }}/files/cpm-poster-2023.pdf" title="CPM Poster 2023" style="width:100%; height:85vh; border:1px solid #ccc; border-radius:6px;">
     Your browser doesn't support embedded PDFs. You can
