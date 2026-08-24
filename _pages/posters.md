@@ -107,7 +107,7 @@ Here are the latest posters showcasing some of the group's research. Further inf
     <a href="{{ base_path }}/files/RQMP_poster.pdf" download="RQMP_poster.pdf">download the PDF</a> instead.
   </iframe>
   <p style="text-align:right; margin-top:0.5em;">
-    <a href="{{ base_path }}/files/RQMP_poster.pdf" download="RQMP_poster.pdf" target="_blank">Download PDF</a> (2Mb)
+    <a href="{{ base_path }}/files/RQMP_poster.pdf" download="RQMP_poster.pdf" target="_blank">Download PDF</a> (2.8Mb)
   </p>
 </div>
 
@@ -120,7 +120,7 @@ Here are the latest posters showcasing some of the group's research. Further inf
     <a href="{{ base_path }}/files/cpm-poster-2023.pdf" download="cpm-poster-2023.pdf">download the PDF</a> instead.
   </iframe>
   <p style="text-align:right; margin-top:0.5em;">
-    <a href="{{ base_path }}/files/cpm-poster-2023.pdf" download="cpm-poster-2023.pdf" target="_blank">Download PDF</a> (2Mb)
+    <a href="{{ base_path }}/files/cpm-poster-2023.pdf" download="cpm-poster-2023.pdf" target="_blank">Download PDF</a> (2.0Mb)
   </p>
 </div>
 <br><br>
