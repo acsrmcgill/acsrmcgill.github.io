@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Poster"
-    url: /poster/ 
+  - title: "Posters"
+    url: /posters/ 
 
   - title: "Research"
     url: /research/ 

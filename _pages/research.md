@@ -10,7 +10,7 @@ header:
   #     url: "https://unsplash.com"
 excerpt: ""
 permalink: /research/
-author_profile: true
+author_profile: false
 redirect_from: 
   - /acsr/
   - /acsr.html

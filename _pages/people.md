@@ -1,8 +1,13 @@
 ---
 layout: archive
 title: "People"
+header:
+  overlay_image: grouppic.png
+  overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
+  caption: ""
+excerpt: ""
 permalink: /people/
-author_profile: true
+author_profile: false
 redirect_from: 
   - /acsr/
   - /acsr.html
@@ -85,7 +90,7 @@ grads:
 </div>
 
 
-## Postdocs
+## Researchers
 
 <!-- <img src="{{ base_path }}/images/bio-photo.jpg" alt="Salvador" style="width:10%;height:auto;">
 {: style="text-align: justify" }
@@ -93,25 +98,20 @@ _**Salvador Valtierra Rodriguez**_. Thermodynamic modeling of stainless steels. 
  [[more]](../_pages/404.md) -->
 
   
-
+<div class="people-container">
   <figure class="person-card">
     <img src="{{ base_path }}/images/profile_pics/daniel.jpg" alt="Daniel Coelho">
     <figcaption>
       <b>Daniel Coelho</b><br>
-      PhD student. My research interests lie at the intersection of condensed matter physics and materials science and engineering.
+      Postdoctoral Fellow. My research interests lie at the intersection of condensed matter physics and materials science and engineering.
     </figcaption>
   </figure>
 
-
-## Graduate students
-
-<div class="people-container">
-
   <figure class="person-card">
-    <img src="{{ base_path }}/images/bio-photo.jpg" alt="Jaarli Suviranta">
+    <img src="{{ base_path }}/images/bio-photo.jpg" alt="Mingwang">
     <figcaption>
-      <b>Jaarli Suviranta</b><br>
-      I'm a PhD student in his last year completing my work on solidification studies using PFC. 
+      <b>Mingwang Zhong</b><br>
+      Postdoctoral Fellow. Description.
     </figcaption>
   </figure>
 
@@ -119,11 +119,40 @@ _**Salvador Valtierra Rodriguez**_. Thermodynamic modeling of stainless steels. 
     <img src="{{ base_path }}/images/profile_pics/ravneet.jpg" alt="Daniel Coelho">
     <figcaption>
       <b>Ravneet Kaur</b><br>
-      Masters student. Currently working on my research project focused on the Structural Phase Field Crystal (XPFC) Vapor Model for binary alloys.
+     Research Assistant. My research applies the Structural Phase Field Crystal (XPFC) formalism to study the microstructure formation in additively manufactured alloys. I examine how dislocations mediate the nucleation of Si precipitates in Al-Si alloys during Laser Powder Bed Fusion (LPBF), through large-scale three-dimensional simulations that resolve atomic-scale defects while evolving on diffusive timescales. This work is built on OpenPFC, an open-source C++/MPI framework that I have extended from pure materials to binary alloys. 
+    </figcaption>
+  </figure>
+</div>
+
+
+
+## Graduate students
+
+<div class="people-container">
+
+  <figure class="person-card">
+    <img src="{{ base_path }}/images/bio-photo.jpg" alt="Tristan Devaux">
+    <figcaption>
+      <b>Tristan Devaux</b><br>
+      PhD student. Co-supervised with <a href="https://www.physics.mcgill.ca/~cumming/" target="_blank">Prof. Andrew Cumming</a>. My research focuses on the properties and states of matter at high density inside of compact stars. I am working on creating statistical field theory - based on Phase-Field Crystal (PFC) -  of the so-called “nuclear pasta” phases, which are expected to emerge at subnuclear densities in the crust of neutron stars.   
     </figcaption>
   </figure>
 
+  <figure class="person-card">
+    <img src="{{ base_path }}/images/bio-photo.jpg" alt="Sammohith Nittala">
+    <figcaption>
+      <b>Sammohith Nittala</b><br>
+      PhD student. Description.
+    </figcaption>
+  </figure>
 
+<figure class="person-card">
+    <img src="{{ base_path }}/images/bio-photo.jpg" alt="Tomoji">
+    <figcaption>
+      <b>Tomoji</b><br>
+      Masters student. Description.
+    </figcaption>
+  </figure>
 
 </div>
 
@@ -140,7 +169,7 @@ _**Daniel Coelho**_. PhD student. My research interests lie at the intersection 
 
 
 ## Undergradute students
-
+<div class="people-container">
 <figure>
   <left>
     <img src="{{ base_path }}/images/bio-photo.jpg" style="width: 150px;height: 150px;object-fit: contain;">
@@ -149,7 +178,7 @@ _**Daniel Coelho**_. PhD student. My research interests lie at the intersection 
     </figcaption>
   </left>
 </figure>
-
+</div>
 
 ## Alumni and past members
 
@@ -161,13 +190,20 @@ _**Daniel Coelho**_. PhD student. My research interests lie at the intersection 
         Postdoctoral researcher. Thermodynamic modeling of stainless steels.
       </figcaption>
     </figure>
-  </div>
-  
-<figure>
-  <left>
-    <img src="{{ base_path }}/images/bio-photo.jpg" style="width: 150px;height: 150px;object-fit: contain;">
-    <figcaption style="text-align: left;width:30%">
-      <b>Duncan Burns</b>. A longtime swimmer and culinary enthusiast, mmm pool noodles... 
+
+  <figure class="person-card">
+    <img src="{{ base_path }}/images/bio-photo.jpg" alt="Duncan Burns">
+    <figcaption>
+      <b>Duncan Burns</b>. A longtime swimmer and culinary enthusiast, mmm pool noodles...  
     </figcaption>
-  </left>
-</figure>
+  </figure>
+
+
+  <figure class="person-card">
+    <img src="{{ base_path }}/images/bio-photo.jpg" alt="Jaarli Suviranta">
+    <figcaption>
+      <b>Jaarli Suviranta</b><br>
+      I'm a PhD student in his last year completing my work on solidification studies using PFC. 
+    </figcaption>
+  </figure>
+</div>
