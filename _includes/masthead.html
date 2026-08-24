@@ -8,10 +8,12 @@
         <ul class="visible-links">
           <!-- <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li> -->
           <li class="masthead__menu-item masthead__menu-item--lg">
-            <a href="{{ base_path }}/">
-              <img src="{{ base_path }}/images/profile3.png" alt="" style="height: 1.3em; width: auto; vertical-align: middle; margin-right: 8px; border-radius: 4px;">{{ site.title }}
-            </a>
-          </li>
+          <a href="{{ base_path }}/">
+            <img src="{{ base_path }}/images/mcgill2.png" alt="McGill University" style="height: 1.3em; width: auto; vertical-align: middle; margin-right: 8px; border-radius: 4px;">
+            <span style="margin: 0 8px; vertical-align: middle;">|</span>
+            <img src="{{ base_path }}/images/profile3.png" alt="" style="height: 1.3em; width: auto; vertical-align: middle; margin-right: 8px; border-radius: 4px;">ACSR
+          </a>
+        </li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
