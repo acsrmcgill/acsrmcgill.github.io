@@ -85,22 +85,22 @@ grads:
 </div>
 
 
-## Researchers
+## Postdocs
 
 <!-- <img src="{{ base_path }}/images/bio-photo.jpg" alt="Salvador" style="width:10%;height:auto;">
 {: style="text-align: justify" }
 _**Salvador Valtierra Rodriguez**_. Thermodynamic modeling of stainless steels. Use of calphad driven free energies to parameterize phase field equations and simulate phase transformations in stainless steels.
  [[more]](../_pages/404.md) -->
 
-<div class="people-container">
-   <figure class="person-card">
-    <img src="{{ base_path }}/images/bio-photo.jpg" alt="Salvador Valtierra Rodriguez">
+  
+
+  <figure class="person-card">
+    <img src="{{ base_path }}/images/profile_pics/daniel.jpg" alt="Daniel Coelho">
     <figcaption>
-      <b>Salvador Valtierra Rodriguez</b><br>
-      Postdoctoral researcher. Thermodynamic modeling of stainless steels.
+      <b>Daniel Coelho</b><br>
+      PhD student. My research interests lie at the intersection of condensed matter physics and materials science and engineering.
     </figcaption>
   </figure>
-</div>
 
 
 ## Graduate students
@@ -112,14 +112,6 @@ _**Salvador Valtierra Rodriguez**_. Thermodynamic modeling of stainless steels. 
     <figcaption>
       <b>Jaarli Suviranta</b><br>
       I'm a PhD student in his last year completing my work on solidification studies using PFC. 
-    </figcaption>
-  </figure>
-
-  <figure class="person-card">
-    <img src="{{ base_path }}/images/profile_pics/daniel.jpg" alt="Daniel Coelho">
-    <figcaption>
-      <b>Daniel Coelho</b><br>
-      PhD student. My research interests lie at the intersection of condensed matter physics and materials science and engineering.
     </figcaption>
   </figure>
 
@@ -160,6 +152,17 @@ _**Daniel Coelho**_. PhD student. My research interests lie at the intersection 
 
 
 ## Alumni and past members
+
+  <div class="people-container">
+     <figure class="person-card">
+      <img src="{{ base_path }}/images/bio-photo.jpg" alt="Salvador Valtierra Rodriguez">
+      <figcaption>
+        <b>Salvador Valtierra Rodriguez</b><br>
+        Postdoctoral researcher. Thermodynamic modeling of stainless steels.
+      </figcaption>
+    </figure>
+  </div>
+  
 <figure>
   <left>
     <img src="{{ base_path }}/images/bio-photo.jpg" style="width: 150px;height: 150px;object-fit: contain;">

@@ -13,7 +13,7 @@ minify_html: false
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Computational Material Science Group"
+title                    : "ACSR"
 title_separator          : "-"
 logo                     : "mcgill.png"
 name                     : &name "ACSR"
@@ -91,7 +91,7 @@ analytics:
 author:
   name             : "ACSR"
   avatar           : "profile2.png"
-  bio              : "McGill Physics Computational Materials Science Group"
+  bio              : "Computational Materials Science Group <br> Department of Physics <br> McGill University "
   location         : "Montreal QC, Canada" #"Rio de Janeiro RJ, Brazil"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
