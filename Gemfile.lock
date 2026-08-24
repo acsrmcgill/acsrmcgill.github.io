@@ -18,8 +18,10 @@ GEM
     faraday-net_http (3.4.4)
       net-http (~> 0.5)
     ffi (1.17.4-arm64-darwin)
+    ffi (1.17.4-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     google-protobuf (3.25.8-arm64-darwin)
+    google-protobuf (3.25.8-x86_64-linux)
     http_parser.rb (0.8.1)
     i18n (1.14.8)
       concurrent-ruby (~> 1.0)
@@ -97,6 +99,8 @@ GEM
     safe_yaml (1.0.5)
     sass-embedded (1.69.5-arm64-darwin)
       google-protobuf (~> 3.23)
+    sass-embedded (1.69.5-x86_64-linux-gnu)
+      google-protobuf (~> 3.23)
     sawyer (0.9.3)
       addressable (>= 2.3.5)
       faraday (>= 0.17.3, < 3)
@@ -108,6 +112,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-20
+  x86_64-linux
 
 DEPENDENCIES
   jekyll
