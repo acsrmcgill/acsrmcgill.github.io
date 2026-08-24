@@ -96,6 +96,18 @@ redirect_from:
 }
 </style>
 
+Here is the latest poster showcasing some of the group's research. Further information on each topic and authors can be found in [Research](../_pages/research.md) and their respective [Publications](../_pages/publications.md).
+<br><br>
+<div style="width:100%; max-width:900px; margin: 0 auto;">
+  <iframe src="{{ base_path }}/files/cpm-poster-2023.pdf" title="CPM Poster 2023" style="width:100%; height:85vh; border:1px solid #ccc; border-radius:6px;">
+    Your browser doesn't support embedded PDFs. You can
+    <a href="{{ base_path }}/files/cpm-poster-2023.pdf" download="cpm-poster-2023.pdf">download the PDF</a> instead.
+  </iframe>
+  <p style="text-align:right; margin-top:0.5em;">
+    <a href="{{ base_path }}/files/cpm-poster-2023.pdf" download="cpm-poster-2023.pdf" target="_blank">Download PDF</a> (2Mb)
+  </p>
+</div>
+<br><br>
 
 Here is the latest poster showcasing some of the group's research. PDF version for <a href="{{ base_path }}/files/cpm-poster-2023.pdf" download="cpm-poster-2023.pdf" target="_blank">download</a> (2Mb). Further information on each topic and authors can be found in [Research](../_pages/research.md) and their respective [Publications](../_pages/publications.md).
 <br><br>
