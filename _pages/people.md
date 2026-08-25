@@ -314,7 +314,7 @@ _**Daniel Coelho**_. PhD student. My research interests lie at the intersection 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   document.querySelectorAll('.person-bio').forEach(function (bio) {
-    // Only add a toggle if the bio is actually being clamped/truncated
+    /* Only add a toggle if the bio is actually being clamped/truncated */
     if (bio.scrollHeight > bio.clientHeight + 1) {
       var btn = document.createElement('button');
       btn.type = 'button';
